@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Ali Akbar! 👋</h1>
 
-<h3 align="center">Computer Engineering Student @ University of Tehran | Developer & Researcher</h3>
+<h3 align="center">Computer Engineering Student University of Tehran | Developer & Researcher</h3>
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_ID" target="_blank">
+  <a href="https://t.me/Aliiiik" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:aliakbararshadi37@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+  <a href="https://linkedin.com/in/ali-akbar-arshadi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
